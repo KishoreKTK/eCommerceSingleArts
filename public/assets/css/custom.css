@@ -1,0 +1,7 @@
+.content-wrapper {
+    background: #f6f6f6;
+}
+.navbar .navbar-brand-wrapper .navbar-brand img{
+    max-width: 100% !important;
+    height: auto !important;
+}
